@@ -1,0 +1,30 @@
+body{
+    background: radial-gradient(
+        circle at 50% 0,
+        rgba(130, 14, 109, 0.5),
+        rgba(110, 18, 107, 0) 70.71%
+      ), radial-gradient(
+        circle at 6.7% 75%,
+        rgba(19, 171, 231, 0.5),
+        rgba(0, 0, 255, 0) 70.71%
+      ),
+      radial-gradient(
+          circle at 93.3% 75%,
+          rgba(125, 35, 158, 0.5),
+          rgba(0, 255, 0, 0) 70.71%
+        ) beige;
+    border-radius: 50%;
+    height: 100vh;
+    font-family: Comic Sans MS, Comic Sans;
+     
+}
+span{
+  background-color: blueviolet;
+  width: 30rem;
+}
+.boton{
+  background-color: rgb(32, 237, 32);
+  font-size: 20px;
+  border: none;
+  border-radius: 10%;
+}
